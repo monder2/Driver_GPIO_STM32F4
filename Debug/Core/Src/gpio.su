@@ -1,0 +1,7 @@
+../Core/Src/gpio.c:49:6:GPIO_ClockEnable	16	static
+../Core/Src/gpio.c:139:6:GPIO_DeInit	16	static
+../Core/Src/gpio.c:233:6:GPIO_Init	16	static
+../Core/Src/gpio.c:283:15:GPIO_ReadInputDataBit	24	static
+../Core/Src/gpio.c:323:20:GPIO_ReadInputData	16	static
+../Core/Src/gpio.c:355:6:GPIO_WriteBit	16	static
+../Core/Src/gpio.c:391:6:GPIO_Write	16	static
